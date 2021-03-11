@@ -469,8 +469,8 @@ mark,
   border-color: lightseagreen;
   background-color: aquamarine;
   border-radius: 8px;
-  margin-left: 350px;
-  margin-right: 350px;
+  margin-left: relative;
+  margin-right: relative;
   padding: 5px;
 }
 
