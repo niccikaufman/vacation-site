@@ -60,7 +60,9 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  /* background-color: lightseagreen; */
+  background-image: url(/images/fish.jpg);
+  background-repeat: repeat ;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -5250,10 +5252,15 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .jumbotron {
+  text-align: center;
+  color: black;
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #e9ecef;
+  background-color: antiquewhite;
+  opacity: 50%;
   border-radius: 0.3rem;
+  /* background-image: url(/images/surf.png);
+  background-size: cover; */
 }
 
 @media (min-width: 576px) {
