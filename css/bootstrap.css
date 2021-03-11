@@ -127,6 +127,9 @@ dd {
 
 blockquote {
   margin: 0 0 1rem;
+  font-size: 45pt;
+  color: seagreen;
+  
 }
 
 b,
@@ -461,12 +464,20 @@ mark,
 .blockquote {
   margin-bottom: 1rem;
   font-size: 1.25rem;
+  border-style: dashed;
+  border-width: 1px;
+  border-color: lightseagreen;
+  background-color: aquamarine;
+  border-radius: 8px;
+  margin-left: 350px;
+  margin-right: 350px;
+  padding: 5px;
 }
 
 .blockquote-footer {
   display: block;
   font-size: 80%;
-  color: #6c757d;
+  color: seagreen;
 }
 
 .blockquote-footer::before {
@@ -5256,8 +5267,8 @@ a.badge-dark:focus, a.badge-dark.focus {
   color: black;
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: antiquewhite;
-  opacity: 50%;
+  background-color: whitesmoke;
+  opacity: 60%;
   border-radius: 0.3rem;
   /* background-image: url(/images/surf.png);
   background-size: cover; */
@@ -6421,6 +6432,7 @@ a.close.disabled {
 
 .carousel {
   position: relative;
+  float: right;
 }
 
 .carousel.pointer-event {
