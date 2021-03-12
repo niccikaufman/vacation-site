@@ -1,0 +1,11 @@
+.blockquote {
+  border-style: dashed;
+  border-width: 1px;
+  border-color: lightseagreen;
+  background-color: aquamarine;
+}
+
+.jumbotron {
+  background-color: whitesmoke;
+  opacity: 60%;
+}
