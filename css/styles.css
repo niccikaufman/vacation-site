@@ -3,9 +3,21 @@
   border-width: 1px;
   border-color: lightseagreen;
   background-color: aquamarine;
+  text-align: center;
 }
 
 .jumbotron {
   background-color: whitesmoke;
+  color: black;
   opacity: 60%;
+  text-align: center;
+}
+
+body {
+  background-image: url(/images/fish.jpg);
+  background-size: cover;
+}
+
+.package {
+  background-color: antiquewhite;
 }
