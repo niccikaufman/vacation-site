@@ -14,7 +14,7 @@
 }
 
 body {
-  background-image: url(./images/fish.jpg);
+  background-image: (./images/fish.jpg);
   background-size: cover;
 }
 
