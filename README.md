@@ -12,7 +12,7 @@
 
 ## Description
 
-_A simple website for a vacation I'd like to take.
+_A simple website for a vacation I'd like to take._
 
 ## Setup/Installation Requirements
 
