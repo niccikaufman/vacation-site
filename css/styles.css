@@ -13,10 +13,10 @@
   text-align: center;
 }
 
-/* body {
-  background-image: url(/images/fish.jpg);
+body {
+  background-image: url(./images/fish.jpg);
   background-size: cover;
-} */
+}
 
 .package {
   background-color: antiquewhite;
